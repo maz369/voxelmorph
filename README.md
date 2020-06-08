@@ -1,6 +1,6 @@
 # voxelmorph
 Unsupervised Learning with CNNs for Image Registration.  
-This repository incorporates several variants, first presented at CVPR2018 (initial unsupervised learning) and then MICCAI2018  (probabilistic & diffeomorphic formulation)
+This repository incorporates several variants, first presented at CVPR2018 (initial unsupervised learning) and then MICCAI2018  (probabilistic & diffeomorphic formulation).
 
 keywords: machine learning, convolutional neural networks, alignment, mapping, registration
 
