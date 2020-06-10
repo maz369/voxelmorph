@@ -64,7 +64,7 @@ In the original MICCAI code, the parameters were applied after the scaling of th
 
 # Papers
 
-If you use voxelmorph or some part of the code, please cite:
+If you use voxelmorph or some part of the code, please cite the following:
 
   * For the diffeomorphic or probabilistic model:
 
