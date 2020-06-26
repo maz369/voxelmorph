@@ -135,7 +135,6 @@ def load_volfile(datafile):
                 import nibabel as nib  
             except:
                 print('Failed to import nibabel. need nibabel library for these data file types.')
-
         X = nib.load(datafile).get_data()
         
     else: # npz
